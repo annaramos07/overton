@@ -86,9 +86,14 @@ a{
 	top: 40%;
 }
 
+.carousel-caption h1{
+	font-size-adjust: 80px;
+	font-weight: 700;
+}
 
-
-
+.carousel-caption p{
+	font-size: 20px;
+}
 
 
 
